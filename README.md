@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My PortFolio<br>🌱 I’m currently learning TypeScript<br>👨‍💻 All of my projects are available at https://div-chetan.netlify.app/<br>💬 Ask me about React and Web Development<br>📫 How to reach me chetandivekar6@gmail.com
+🔭 I’m currently working on My PortFolio<br>🌱 I’m currently learning TypeScript <br/> 💬 Ask me about React and Web Development<br>📫 How to reach me hanishpatil4@gmail.com
 
 
 ## 🌐 Socials:
